@@ -1,6 +1,4 @@
-#AdGuard for macOS 非官方繁體中文翻譯檔
-
----
+# AdGuard for macOS 非官方繁體中文翻譯檔
 
 因為我中文能力不是很好，AdGuard 當中有很多設定細節的翻譯我看不太懂，所以去比對了一下英文後，改成自己看得懂的翻譯。改著改著就不小心改了大部分的內容。XD
 
@@ -8,7 +6,7 @@
 
 ### 安裝方式
 
-把 `zh-Hant.lproj` 直接丟進去 `/Applications/Adguard.app/Contents/Resources/`，替換原始檔案即可。
+下載後，把 `zh-Hant.lproj` 直接丟進去 `/Applications/Adguard.app/Contents/Resources/`，替換原始檔案即可。
 
 ### 適用版本
 
