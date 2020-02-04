@@ -6,7 +6,11 @@
 
 ### 安裝方式
 
-下載後，把 `zh-Hant.lproj` 直接丟進去 `/Applications/Adguard.app/Contents/Resources/`，替換原始檔案即可。
+方法二選一
+
+1. 下載後，把 `zh-Hant.lproj` 直接丟進去 `/Applications/Adguard.app/Contents/Resources/`，替換原始檔案即可。
+
+2. `./install.sh`
 
 ### 適用版本
 
