@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>DefaultProcessForFilteringDescription</key>
+    <dict>
+      <key>com.AlphaOmegaSoftware.DesktopWebBrowser</key>
+      <string>桌面瀏覽器</string>
+      <key>com.apple.Safari</key>
+      <string>Safari</string>
+      <key>com.apple.SafariTechnologyPreview</key>
+      <string>Safari Technology Preview</string>
+      <key>com.apple.mail</key>
+      <string>郵件</string>
+      <key>com.brave.Browser</key>
+      <string>Brave 瀏覽器</string>
+      <key>com.catalinagroup.Citrio</key>
+      <string>Citrio</string>
+      <key>com.electron.brave</key>
+      <string>Brave</string>
+      <key>com.flashpeak.SlimBoat</key>
+      <string>SlimBoat</string>
+      <key>com.flashpeak.Slimjet</key>
+      <string>Slimjet</string>
+      <key>com.google.Chrome</key>
+      <string>Google Chrome</string>
+      <key>com.google.Chrome.canary</key>
+      <string>Google Chrome Canary</string>
+      <key>com.maxthon.mac.Maxthon</key>
+      <string>Maxthon</string>
+      <key>com.microsoft.Edge.Canary</key>
+      <string>Microsoft Edge Canary（舊版）</string>
+      <key>com.microsoft.edgemac.Canary</key>
+      <string>Microsoft Edge Canary</string>
+      <key>com.microsoft.Edge.Dev</key>
+      <string>Microsoft Edge Dev（舊版）</string>
+      <key>com.microsoft.edgemac.Dev</key>
+      <string>Microsoft Edge Dev</string>
+      <key>com.microsoft.edgemac.Beta</key>
+      <string>Microsoft Edge Beta</string>
+      <key>com.microsoft.edgemac</key>
+      <string>Microsoft Edge</string>
+      <key>com.omnigroup.OmniWeb6</key>
+      <string>OmniWeb</string>
+      <key>com.opera.Neon</key>
+      <string>Opera Neon</string>
+      <key>com.operasoftware.Opera</key>
+      <string>Opera</string>
+      <key>com.polysuite.polybrowser</key>
+      <string>PolyBrowser</string>
+      <key>com.vivaldi.Vivaldi</key>
+      <string>Vivaldi</string>
+      <key>com.whitehatsec.aviator</key>
+      <string>Aviator</string>
+      <key>de.icab.iCab</key>
+      <string>iCab</string>
+      <key>jp.co.fenrir.sleipnir</key>
+      <string>Sleipnir</string>
+      <key>org.Runecats.Roccat</key>
+      <string>Roccat</string>
+      <key>org.Waterfoxproject.waterfox</key>
+      <string>Waterfox</string>
+      <key>org.chromium.Chromium</key>
+      <string>Chromium</string>
+      <key>org.mozilla.SeaMonkey</key>
+      <string>SeaMonkey</string>
+      <key>org.mozilla.cliqz</key>
+      <string>Cliqz</string>
+      <key>org.mozilla.firefox</key>
+      <string>Firefox</string>
+      <key>org.mozilla.firefoxdeveloperedition</key>
+      <string>FirefoxDeveloperEdition</string>
+      <key>org.mozilla.nightly</key>
+      <string>Firefox Nightly</string>
+      <key>org.mozilla.waterfox</key>
+      <string>Waterfox</string>
+      <key>ru.yandex.desktop.yandex-browser</key>
+      <string>Yandex</string>
+      <key>com.operasoftware.OperaDeveloper</key>
+      <string>Opera Developer</string>
+      <key>com.operasoftware.OperaNext</key>
+      <string>Opera Beta</string>
+      <key>com.valvesoftware.steam</key>
+      <string>Steam</string>
+      <key>com.hnc.Discord</key>
+      <string>Discord</string>
+      <key>com.microsoft.Outlook</key>
+      <string>Microsoft Outlook</string>
+    </dict>
+    <key>FeedbackSubjects</key>
+    <array>
+      <string>回報程式錯誤</string>
+      <string>請求新功能</string>
+      <string>其它</string>
+    </array>
+    <key>FilterDescription</key>
+    <array>
+      <dict>
+        <key>description</key>
+        <string>您所建立的廣告過濾器。您可以手動增加規則，或使用 AdGuard 協助工具。</string>
+        <key>name</key>
+        <string>使用者規則</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>在俄文網站阻擋廣告的過濾器。</string>
+        <key>name</key>
+        <string>俄文過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>專用於英文為主的網路廣告過濾器。</string>
+        <key>name</key>
+        <string>基本過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>目前已知的計數器和分析工具過濾器。</string>
+        <key>name</key>
+        <string>追蹤防護過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>社群網站小工具（「讚」按鈕...等等）的過濾器。</string>
+        <key>name</key>
+        <string>社群網站小工具過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>新的過濾器規則會先在此測試</string>
+        <key>name</key>
+        <string>實驗性過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>在德文網站阻擋廣告的過濾器。</string>
+        <key>name</key>
+        <string>德文過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>在日文網站阻擋廣告的過濾器。</string>
+        <key>name</key>
+        <string>日文過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>在荷蘭文網站阻擋廣告的過濾器。</string>
+        <key>name</key>
+        <string>荷蘭文過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>在西班牙文和葡萄牙文網站阻擋廣告的過濾器。</string>
+        <key>name</key>
+        <string>西班牙文/葡萄牙文過濾器</string>
+      </dict>
+      <dict>
+        <key>description</key>
+        <string>此設定將會啟用一個特殊的過濾器，以解除阻擋可能對使用者有幫助的廣告。例如出現在搜尋結果中的廣告。</string>
+        <key>name</key>
+        <string>解除阻擋搜尋結果廣告和網站的自我推銷廣告的過濾器</string>
+      </dict>
+    </array>
+  </dict>
+</plist>
